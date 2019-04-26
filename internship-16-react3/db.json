@@ -1,28 +1,41 @@
 {
-    "dogs": 
-    [
-        {
-            "id": 1,
-            "name": "Max",
-            "description" : "cute doggo" 
-        },
-        { 
-            "id": 2, 
-            "name": "Wolfie", 
-            "description": "goodboi" 
-        }
-    ],
-    "cats": 
-    [
-        { 
-            "id": 1, 
-            "name": "Catie",  
-            "description" : "cute cat" 
-        },
-        { 
-            "id": 2, 
-            "name": "Meow", 
-            "description": "fat cat" 
-        }    
-    ]
+  "dogs": [
+    {
+      "name": "Rex",
+      "description": "Police doggo",
+      "id": 1
+    },
+    {
+      "name": "Max",
+      "description": "GoodBoi",
+      "id": 3
+    },
+    {
+      "name": "Bowser",
+      "description": "He likes toys.",
+      "id": 5
+    }
+  ],
+  "cats": [
+    {
+      "name": "Meowey",
+      "description": "fat cat",
+      "id": 1
+    },
+    {
+      "name": "Kitty",
+      "description": "meow.",
+      "id": 3
+    },
+    {
+      "name": "Peach",
+      "description": "Cat likes toys",
+      "id": 4
+    },
+    {
+      "name": "Marky Mark",
+      "description": "The funky bunch.",
+      "id": 5
+    }
+  ]
 }
